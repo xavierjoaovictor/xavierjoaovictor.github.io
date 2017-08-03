@@ -197,7 +197,7 @@ html, body {
 }
 @keyframes progress-ui {
 	0% { width: 10% }
-	100% { width: 55% }
+	100% { width: 65% }
 }
 @keyframes progress-ruby {
 	0% { width: 10% }
@@ -246,7 +246,7 @@ html, body {
 }
 .ui {
 	background-color: #639FAB;
-	width: 55%;
+	width: 65%;
 }
 .ruby {
 	background-color: #D6C3C9;
